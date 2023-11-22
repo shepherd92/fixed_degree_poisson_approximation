@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Hirsch"
+  given-names: "Christian"
+  orcid: "https://orcid.org/0000-0003-4136-3740"
+- family-names: "Jahnel"
+  given-names: "Benedikt"
+  orcid: "https://orcid.org/0000-0002-4212-0065"
+- family-names: "Jhawar"
+  given-names: "Sanjoy Kumar"
+  orcid: "https://orcid.org/0000-0003-1297-0525"
+- family-names: "Juhasz"
+  given-names: "Peter"
+  orcid: "https://orcid.org/0000-0002-5890-6310"
+title: "Poisson approximation of fixed-degree nodes in weighted random connection models"
+version: 1.0.0
+doi: 
+date-released: 2023-11-21
+url: "https://github.com/shepherd92/fixed_degree_poisson_approximation"
